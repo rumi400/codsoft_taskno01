@@ -39,7 +39,7 @@ class _SplashScreenState extends State<SplashScreen> {
                 SizedBox(
                     // height: 50,
                     // width: 50,
-                    child: Image.asset("assets/img/1.png",)
+                    child: Image.asset("assets/img/1.png", )
                 ),
                 const SizedBox(height: 15,),
                 const Text("Todo App",style: TextStyle(fontSize: 30,color: Colors.white,fontWeight: FontWeight.bold,), ),
