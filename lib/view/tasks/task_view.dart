@@ -384,6 +384,7 @@ class _TaskViewState extends State<TaskView> {
             width: 50,
             child: Divider(
               thickness: 2,
+
             ),
           ),
           RichText(
